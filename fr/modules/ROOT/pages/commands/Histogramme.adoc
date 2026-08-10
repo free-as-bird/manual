@@ -51,7 +51,7 @@ bornes sinon l'histogramme sera “non défini”.
 
 crée un histogramme à 3 barres de hauteurs : 0.5 (1ère barre), 0.2 (2ème), et 0.1 (3ème).
 
-L'aire totale de l'histogramme est 0.5*10 + 0.2*10 + 0.1*10 = 8.
+L'aire totale de l'histogramme est 0.5*10 + 0.2*10 + 0.1*10 = 8. Cette valeur est affichée dans Algèbre.
 
 ====
 
@@ -64,7 +64,7 @@ L'aire totale de l'histogramme est 0.5*10 + 0.2*10 + 0.1*10 = 8.
 
 crée un histogramme à 3 barres de hauteurs : 5 (1ère barre), 2 (2ème), et 1(3ème).
 
-Cet histogramme ne prend pas en compte la densité, les hauteurs des barres sont les effectifs de chacune des classes.
+Cet histogramme ne prend pas en compte la densité, les hauteurs des barres sont les effectifs de chacune des classes. Vous pouvez lire le nombre total de valeurs dans Algèbre.
 
 ====
 
